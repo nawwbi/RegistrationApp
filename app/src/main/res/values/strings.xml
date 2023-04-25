@@ -1,0 +1,15 @@
+<resources>
+    <string name="textView8">Registration App</string>
+    <string name="textView">Welcome to Adventure Learning Club!</string>
+    <string name="textView2">Full Name</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="textView4">Student ID</string>
+    <string name="textView5">School</string>
+    <string name="textView6">E-mail</string>
+    <string name="textView7">Phone</string>
+    <string name="button">Register</string>
+    <string name="input"></string>
+</resources>
